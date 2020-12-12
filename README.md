@@ -7,7 +7,8 @@
 #### Cette version est fonctionnelle mais non-optimisée.
 #### Ce n'est pas responsive.
 
-Vous avez besoin de démarrer le serveur pour continuer.
+- Vous avez besoin d'une invite de commande sous Linux.
+- Vous avez besoin de démarrer le serveur pour continuer.
 Projet Back : https://github.com/ibrahyma/stuffmanager_back/
 
 1) Téléchargez le projet zip
